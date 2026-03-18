@@ -1,29 +1,25 @@
-## Hello 👋, im Shlepsss.
+<h1 align="center">Hello 👋, im Shlepsss.</h1>
 
-<!--
-**koteProgrammist/koTeProgrammist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shlepsss&style=flat-square&color=red" alt=""/><br>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### I'm just little coder 💻🐧.
-Like to:
-- Make some cool stuff with AVR microcontrollers 😋
-- Learn and do something with low-level code (ASM, C) 😫
-- Find holes in rules and legal hacking 🤫
-- Experiment with sound/pro audio 🔊
-
-Very interested with difficult built devices and trying to get how it work
-
-Fishes and shrimps are so cuuuute 🦐🦐🐟🐟🐟
-
-God save DOS🙏
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Shlepsss&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
+<h2 align="center">I'm just little coder 💻🐧</h2>
+<p align="center">Like to:<br>- Make some cool stuff with AVR microcontrollers 😋<br>- Learn and do something with low-level code (ASM, C) 😫<br>- Find holes in rules and legal hacking 🤫<br>- Experiment with sound/pro audio 🔊<br>Very interested with difficult built devices and trying to get how it work<br>Fishes and shrimps are so cuuuute 🦐🦐🐟🐟🐟<br>God save DOS🙏</p>
